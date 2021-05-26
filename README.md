@@ -1,10 +1,22 @@
 <!-- @format -->
 
-# Chat Online
+# Kuepa-Virtual V 1.0.1
 
-Este proyecto pretende brindar una herramienta de chat a las clases
-virtuales que permita la interacción entre los participantes y el moderador de la clase.
+Este proyecto pretende brindar una herramienta de chat a las clases virtuales que permita la interacción entre los participantes y el moderador de la clase.
 
-# Instrucciones Previas
+![](docs/chat-javascript-fullstack.jpg)
 
-Su puesta a punto es super sencilla, solo es descargar el proyecto, instalar nodejs y ejecutar por consola el comando npm install dos veces, estando dentro de la carpeta src que esta dos veces la primera dentro de la carpeta back y la segunda en la carpeta front.
+# Used Technologies
+
+- Nodejs
+  - Express
+  - Socket.io
+- Mongodb
+
+# Links and Resources used in this project
+
+- [Bootstrap4 CDN](http://getbootstrap.com/docs/4.0/getting-started/introduction/)
+- [Background Gradient Color](https://uigradients.com/#Lawrencium)
+- [jQuery CDN](https://code.jquery.com/)
+
+Chat Online
